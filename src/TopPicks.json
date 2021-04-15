@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "img": "./img/bmwi8_sm.jpg",
+        "name": "2020 BMW i8",
+        "ftype": "Electric",
+        "ctype": "Luxury",
+        "hp": "369hp",
+        "price": "$1,475.00",
+        "color": "white" 
+    }, {
+        "id": 2,
+        "img": "./img/wraith_sm.jpg",
+        "name": "2017 Rolls-Royce Dawn",
+        "ftype": "Gas",
+        "ctype": "Luxury",
+        "hp": "563hp",
+        "price": "$3,460.00",
+        "color": "blue" 
+    }, {
+        "id": 5,
+        "img": "./img/yellow_mclaren_sm.jpg",
+        "name": "2019 McLaren Spider",
+        "ftype": "Gas",
+        "ctype": "Super Car",
+        "hp": "675hp",
+        "price": "$372.00",
+        "color": "yellow"
+    }, {
+        "id": 3,
+        "img": "./img/bently_sm.jpg",
+        "name": "2017 Bentley 5",
+        "ftype": "Gas",
+        "ctype": "Luxury",
+        "hp": "600hp",
+        "price": "$2,300.00",
+        "color": "red" 
+    }, {
+        "id": 4,
+        "img": "./img/bugatti_sm.jpg",
+        "name": "2020 Bugatti Chiron",
+        "ftype": "Gas",
+        "ctype": "Sport",
+        "hp": "1,578hp",
+        "price": "$30,000.00",
+        "color":"blue"
+    }, {
+        "id": 5,
+        "img": "./img/yellow_mercedes_sm.jpg",
+        "name": "2018 Mercedes S-Class",
+        "ftype": "Gas",
+        "ctype": "Luxury",
+        "hp": "350hp",
+        "price": "$975.00",
+        "color": "yellow"
+    }
+
+]
